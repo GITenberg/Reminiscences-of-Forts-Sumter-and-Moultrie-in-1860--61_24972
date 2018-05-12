@@ -1,0 +1,66 @@
+_repo: Reminiscences-of-Forts-Sumter-and-Moultrie-in-1860--61_24972
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Doubleday, Abner
+    birthdate: 1819
+    deathdate: 1893
+    gutenberg_agent_id: '9508'
+    url: http://www.gutenberg.org/2009/agents/9508
+    wikipedia: http://en.wikipedia.org/wiki/Abner_Doubleday
+description: 'The following list indicates which documents are tipped into the binding
+  leaves of the book publication. These are the following thirty-five (35) documents:
+  ;;1. Joseph W. Walker?, Headquarters, Commissary General''s Dept., ;Charleston,
+  S.C., to Gov. Pickens, Apr. 2, 1861. ALS;;2. Abner Doubleday, Mendham, N.J, to Mr.
+  [T.T.?] Stockwell, Boston, Mass.,;April, 26, 18[92]. ALS;;3. Illustrated song sheet
+  "Hoist up the Flag," published by H. DeMarsan, n.d. ;;4. Brig. General [RGM?] Dunonaut?
+  Fort Moultrie, to Gov. Pickens, Jan. 3;1861. ALS;;5. Autograph sheet of signatures,
+  names include Abner Doubleday. ALS;;6. D. F. Jamison, Executive Office, Department
+  of War, Charleston, S.C., March 3, 1861. ALS;;7. D. F. Jamison, Executive Office,
+  Department of War, Charleston, S.C., Jan. 10, 1861. ALS;;8. Illustration "Appearance
+  of Fort Sumter on Sunday Afternoon August 23, 1863;;9. [T. J.?] Porter, Washington,
+  D.C., to L. T. List, St. Louis, Mo., Dec. 28, [18]62. ALS. ;;10. Jno. Johnson, Camden,
+  S.C., to Gen. S. W. Crawford, Nov. 25, 1869. "Private and confidential." ALS, 4
+  pp. 2 pcs.;;11. Gen. John G. Foster. Inventory and Inspection Report of Quarter
+  Master''s Stores, pertaining to QuarterMasters Dept., 7th Army Corps, Lieut. Col.
+  C. W. Thomas. 1 p. ;;12. R. B. Rhett, to "My Dear Sir," undeciphered date. ALS ;;13.
+  Jno. Johnson, to "Dear General," Charleston, S.C., Aug. 22, 1871. ALS 2 pcs.;;14.
+  1 patriotic envelope, Scott & Anderson.;;15. ALS to "My Dear Carlisle" ;;16. Autograph
+  signature of D. C. Buell, 1882;;17. Genls. William Curtis, West New Brighton, Staten
+  Island, N.Y., Hon. H.B. Anthony, 1873.;;18. Navy Dept., March 16, 1857 re Montgomery
+  Fletcher.;1 patriotic envelope "Ft. Sumpter" ;;19. Autograph of Robert Anderson
+  ;;20. Document re Isaac Pallmadge, Special Administrator ;;21. Letter to Admiral
+  Buchanan. (document is split into 2 parts-needs mending). Feb. 26, 1893. ;;22. Adjutant
+  General''s Office, Orders, Washington, April 23, 1862;;23. Special Requisition ;;24.
+  Charleston Harbor envelop with portrait of Gen. Anderson ;;25. Signed card, Apr.
+  18, 1874 "near Alexandria, Va." ;;26. P. H. Watson, Asst. Secy. Of War, War Dept.,
+  Washington, D.C., May 28, 1862. ALS. ;;27. Roger A. [Pryor?] to "Dear Sir," Oct.
+  23, 1913. ALS. ;;28. Song sheet "The Flag of Fort Sumter." H. De Marsan, publisher.
+  ;;29. Letter to "Dear Mr. Phillips" Nov. [3?] [19]01. Union Club letterhead. ;;30.
+  Bachelder, Aug. 1864;;31. Letter to H. T. Clark, Gov. of North Carolina, Oct. 21,
+  1861.;;32. Letter of Edmund Ruffin, Charleston, Dec. 14, 1863. ;;33. ALS Gen. Beauregard,
+  May 24, 1861. ;;34. Patriotic U.S. Flag ;;35. J. Lafayette Riker, Anderson Zouaves,
+  Union Square, to Reverend and Dear Sir, May 3, 1861. ;;36. Song sheet "Dixie for
+  the Union"'
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2008-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24972'
+  lccn: '02010555'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Doubleday, Abner, 1819-1893'
+- !lcsh 'South Carolina -- History -- Civil War, 1861-1865'
+- !lcsh 'Fort Sumter (Charleston, S.C.) -- History'
+- !lcc 'E456'
+- !lcsh 'Fort Moultrie (S.C.) -- History'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+title: Reminiscences of Forts Sumter and Moultrie in 1860-'61
+url: http://www.gutenberg.org/ebooks/24972
