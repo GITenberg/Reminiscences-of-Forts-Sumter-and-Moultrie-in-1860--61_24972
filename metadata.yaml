@@ -45,6 +45,8 @@ description: 'The following list indicates which documents are tipped into the b
   May 24, 1861. ;;34. Patriotic U.S. Flag ;;35. J. Lafayette Riker, Anderson Zouaves,
   Union Square, to Reverend and Dear Sir, May 3, 1861. ;;36. Song sheet "Dixie for
   the Union"'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24972#Reminiscences-of-Forts-Sumter-and-Moultrie-in-1860--61
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2008-04-01'
 gutenberg_type: Text
